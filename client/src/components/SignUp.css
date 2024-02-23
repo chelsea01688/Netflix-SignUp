@@ -1,7 +1,76 @@
 .signUpContainer {
     text-align: left;
+    margin: 0 auto;
+    max-width: 400px;
+    margin-top: 50px;
 }
 
 .nexbtn {
     margin-top: 20px;
+}
+
+h1 {
+    margin-top: -12px;
+    font-weight: 600;
+}
+
+.smallest {
+    font-size: 13px;
+}
+
+.testing {
+    font-size: 18px;
+    margin-top: -10px;
+    line-height: 23px;
+}
+
+.nextbtn {
+    margin-top: 40px;
+    font-size: 1.4rem;
+    color: #fff;
+    background-color: #e50914;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 19px 2em;
+    width: 100%;
+}
+
+.nextbtn:hover {
+    filter: brightness(120%);
+}
+  
+input {
+    width: 100%;
+    padding: 15px 0px;
+}
+
+.emailinput {
+    position: relative;
+}
+
+.pwInput {
+    margin-top: 30px;
+}
+
+.emailInput input:focus,
+.pwInput input:focus {
+  border-color: red;
+  box-shadow: 0 0 0 2px black;
+}
+
+::placeholder {
+    font-size: 16px;
+    padding-left: 14px;
+}
+
+.danger {
+    color: rgb(193, 17, 25);
+    font-size: 12px;
+    line-height: 1.53846;
+}
+.eye {
+    position: absolute;
+    transform: translateY(-170%);
+    right: 570px;
 }
