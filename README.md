@@ -12,5 +12,9 @@ Developed a sign-up page inspired by Netflix. It's enjoyable to replicate a webs
 ## Demo Video🎥
 
 
-https://github.com/chelsea01688/Netflix-SingUp/assets/146859678/07995dbb-d777-4f0d-8739-0ec6f598b905
+https://github.com/chelsea01688/Netflix-SingUp/assets/146859678/d54d7330-52b4-4cd8-945d-3ae6a9344ac0
+
+
+
+
 
