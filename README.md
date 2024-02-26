@@ -4,7 +4,7 @@ A clone of the Netflix signup page but added some new features--Includes functio
 <br>
 
 ## Project Describution
-Developed a sign-up page inspired by Netflix. It's enjoyable to replicate a website, even if it's just a single page. When clicking "Next" without entering any information into the input field, a red error message will be displayed. The eye logo allows users to toggle the visibility of the password.
+Developed a sign-up page inspired by Netflix. It's enjoyable to replicate a website, even if it's just a single sign-up page. When clicking "Next" without entering any information into the input field, a red error message will be displayed. The eye logo allows users to toggle the visibility of the password.
 <br>
 
 <br>
